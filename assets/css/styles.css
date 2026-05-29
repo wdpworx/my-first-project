@@ -8,3 +8,7 @@ h2{
 p{
     font: bold;
 }
+.text-center{
+    display: flex;
+    justify-content: center;
+}
